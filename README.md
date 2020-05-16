@@ -14,5 +14,5 @@ Integrantes do Grupo:
 - Anna Veloso - RA: 1801230
 - Gabriel Bezerra - RA:1801171
 - Hellen Barbosa - RA: 1801219
-- Jefferson Xinenes - RA: 1801158
+- Jefferson Ximenes - RA: 1801158
 - João Nunes - RA: 1801142
