@@ -1,4 +1,4 @@
-# Enviar Email via GMAIL API
+# Enviar e-mail via GMAIL API
 
 Documentação Google: https://developers.google.com/gmail/api/quickstart/python
 
