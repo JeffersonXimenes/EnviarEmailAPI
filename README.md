@@ -9,6 +9,8 @@ Para executar este quickstart, você precisará:
 - A ferramenta de gerenciamento de pacotes pip
 - Uma conta do Google com o Gmail ativado
 
+
+
 Integrantes do Grupo: 
 - Anderson Taborga - RA:1801922
 - Anna Veloso - RA: 1801230
