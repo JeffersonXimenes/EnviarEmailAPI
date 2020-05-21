@@ -49,9 +49,9 @@ def getService():
     
 if __name__ == '__main__':
     service = getService()
-    remetente = "<jeffersonf781@gmail.com>"
-    destinatário = "<jeffersonf781@gmail.com>"
-    assunto = "testeAPI"
-    texto_mensagem = "teste realizado com sucesso"
+    remetente = "<seu email fica aqui>"
+    destinatário = "<email do destinatário>"
+    assunto = "assunto"
+    texto_mensagem = "mensagem que quer enviar"
     mensagem = create_message(remetente, destinatário, assunto, texto_mensagem)
     send_message(service, "me", mensagem)
